@@ -91,12 +91,9 @@ git clone https://github.com/rookiee-coder/attendance.git
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-Your Name - your.email@example.com
+Email: philjohnmasa@gmail.com
 
 Project Link: [https://github.com/rookiee-coder/attendance](https://github.com/rookiee-coder/attendance) 
