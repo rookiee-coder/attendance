@@ -33,7 +33,7 @@ A web-based attendance management system built with PHP and MySQL that allows ed
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/attendance-management.git
+git clone https://github.com/rookiee-coder/attendance.git
 ```
 
 2. Set up the database:
@@ -99,4 +99,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - your.email@example.com
 
-Project Link: [https://github.com/yourusername/attendance-management](https://github.com/yourusername/attendance-management) 
+Project Link: [https://github.com/rookiee-coder/attendance](https://github.com/rookiee-coder/attendance) 
